@@ -1,6 +1,10 @@
 ### Hi there, I'm Chandramani 👋
 
-- 🔭 Full-time Data Analyst.
+🔭 Software Developer Having 1+ Years of Experience in Product Based Company
+
+- 💼 **EDUCATION**
+-     National Institute of Technology, Tiruchirappalli – B Tech, NIT Trichy     [2017 - 2021]
+-     BD Public School  [2015 - 2017]
 <!--
 - 🌱 I’m currently learning Nodejs and Reactjs.
 - 👯 I’m looking to collaborate on 
