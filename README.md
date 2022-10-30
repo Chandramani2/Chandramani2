@@ -2,9 +2,9 @@
 
  <h3 align="center">🔭 Software Developer Having 1+ Years of Experience in Product Based Company</h3>
 
-- 💼 **EDUCATION**
--     National Institute of Technology, Tiruchirappalli – B Tech, NIT Trichy     [2017 - 2021]
--     BD Public School  [2015 - 2017]
+- 💼 **EDUCATION** <br>
+     National Institute of Technology, Tiruchirappalli – B Tech, NIT Trichy     [2017 - 2021] <br>
+     BD Public School  [2015 - 2017]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
