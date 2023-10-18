@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chandramani</h1>
 
- <h3 align="center">🔭 Software Developer Having 1+ Years of Experience in Product Based Company</h3>
+ <h3 align="center">🔭 Software Developer Having 2+ Years of Experience in Product Based Company</h3>
 
 - 💼 **EDUCATION** <br>
      National Institute of Technology, Tiruchirappalli – B Tech, NIT Trichy     [2017 - 2021] <br>
