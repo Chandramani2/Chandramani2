@@ -3,9 +3,25 @@
  <h3 align="center">🔭 Software Developer | 2+ Years of Experience | | Backend Specialist | Problem Solver</h3>
 
 - 💼 **WORK EXPERIENCE** <br>
-     Convin.ai | Backend Developer   [May 2023 - Current] <br>
-     Pickrr Technologies | Software Developer - I  [Nov 2021 - May 2023]
-<br>
+  **Convin.ai** | Backend Developer   [May 2023 - Current] <br>
+    - Elevated reporting capabilities using AWS Lambda and Event Bridge in Python, querying data from AWS S3 and DynamoDB
+    - Enhanced missed events reporting by implementing a robust email delivery system through AWS SES
+    - Established a Python API and crafted a JavaScript script, which can direct upload over 1M+ chats to the database
+    - Revamped data processes with JavaScript scripting on Retool, seamlessly managing multiple APIs for efficient data handling
+    - Revitalized getsimpl and fyers in Python and Golang, seamlessly managing data from webhook reception to PostgreSQL database updates
+    - Designed multiple Microservices when converting into microservices from Monolithic architecture
+
+  **Pickrr Technologies** | Software Developer - I  [Nov 2021 - May 2023] <br>
+   - Generated Revenue around ₹2,000 per day and Saved Money around ₹10,000 every week through PICKRR PREDICT.
+   - Integrated Web Scraping Tools with IP Rotate then converted into simplified JSON and saved it into MongoDB
+   - Integrated Channels like Shopify, OpenCart, etc.: Total of 19 channels integrated using Spring boot with JPA and JDBC
+   - Authored 3 Reports by building CSV from the data fetched from MongoDB and sent it to mail and used for analysis
+   - Led team members of 3-6 by coordinating and communicating problems well
+   - Strengthened solving bugs by seeing logs in Kibana, Kubernetes (50+ effective Bugs Solved just by seeing logs)
+   - Planned and completed 2 major projects before deadline
+   - Grew in terms of communication, thinking ability, prioritizing tasks and managing 3-6 team members
+
+
 - 💼 **EDUCATION** <br>
      National Institute of Technology, Tiruchirappalli – B Tech, NIT Trichy     [2017 - 2021] <br>
      BD Public School  [2015 - 2017]
