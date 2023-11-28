@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chandramani</h1>
 
- <h3 align="center">🔭 Software Developer Having 2+ Years of Experience in Product Based Company</h3>
+ <h3 align="center">🔭 Software Developer | 2+ Years of Experience | | Backend Specialist | Problem Solver</h3>
 
+- 💼 **WORK EXPERIENCE** <br>
+     Convin.ai | Backend Developer   [May 2023 - Current] <br>
+     Pickrr Technologies | Software Developer - I  [Nov 2021 - May 2023]
+<br>
 - 💼 **EDUCATION** <br>
      National Institute of Technology, Tiruchirappalli – B Tech, NIT Trichy     [2017 - 2021] <br>
      BD Public School  [2015 - 2017]
