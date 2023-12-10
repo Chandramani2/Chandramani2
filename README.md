@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chandramani</h1>
 <h3 align="center">Software Developer | 2+ Years of Experience | | Backend Specialist | Problem Solver</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandramani2" alt="chandramani2" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,4 +12,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandramani2&show_icons=true&locale=en&layout=compact" alt="chandramani2" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandramani2&show_icons=true&locale=en" alt="chandramani2" /></p>
