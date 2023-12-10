@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chandramani</h1>
 
  <h3 align="center">🔭 Software Developer | 2+ Years of Experience | | Backend Specialist | Problem Solver</h3>
-
+<!--
 - 💼 **WORK EXPERIENCE** <br>
   **Convin.ai** | Backend Developer   [May 2023 - Current] <br>
     - Elevated reporting capabilities using AWS Lambda and Event Bridge in Python, querying data from AWS S3 and DynamoDB
@@ -10,7 +10,8 @@
     - Revamped data processes with JavaScript scripting on Retool, seamlessly managing multiple APIs for efficient data handling
     - Revitalized getsimpl and fyers in Python and Golang, seamlessly managing data from webhook reception to PostgreSQL database updates
     - Designed multiple Microservices when converting into microservices from Monolithic architecture
-
+-->
+<!--
   **Pickrr Technologies** | Software Developer - I  [Nov 2021 - May 2023] <br>
    - Generated Revenue around ₹2,000 per day and Saved Money around ₹10,000 every week through PICKRR PREDICT.
    - Integrated Web Scraping Tools with IP Rotate then converted into simplified JSON and saved it into MongoDB
@@ -20,12 +21,12 @@
    - Strengthened solving bugs by seeing logs in Kibana, Kubernetes (50+ effective Bugs Solved just by seeing logs)
    - Planned and completed 2 major projects before deadline
    - Grew in terms of communication, thinking ability, prioritizing tasks and managing 3-6 team members
-
-
+-->
+<!--
 - 💼 **EDUCATION** <br>
      National Institute of Technology, Tiruchirappalli – B Tech, NIT Trichy     [2017 - 2021] <br>
      BD Public School  [2015 - 2017]
-
+-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chandramani24777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandramani24777" height="30" width="40" /></a>
