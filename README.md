@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chandramani</h1>
-<h3 align="center">Software Developer | 3+ Years of Experience | | Backend Developer | Problem Solver</h3>
+<h3 align="center">Software Developer | 3+ Years of Experience | Problem Solver</h3>
 <!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
