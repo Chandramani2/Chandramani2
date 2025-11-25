@@ -65,33 +65,14 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Chandramani2&show_icons=true&theme=tokyonight&hide_border=true" 
-    alt="github stats" 
-    height="165"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Chandramani2&theme=tokyonight&hide_border=true"
-    alt="streak stats"
-    height="165"
-  />
-</p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandramani2&layout=compact&theme=tokyonight&hide_border=true"
-    alt="top langs"
-  />
-</p>
-<!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Chandramani2&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Chandramani2&limit=5&theme=default&combine_all_yearly_contributions=true)
 
----
+<!--
 [![](https://visitcount.itsvg.in/api?id=Chandramani2&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
