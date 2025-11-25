@@ -67,12 +67,12 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=Chandramani2&show_icons=true&theme=tokyonight&hide_border=true" 
     alt="github stats" 
     height="165"
   />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Chandramani2&theme=tokyonight&hide_border=true"
     alt="streak stats"
     height="165"
   />
@@ -80,7 +80,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandramani2&layout=compact&theme=tokyonight&hide_border=true"
     alt="top langs"
   />
 </p>
