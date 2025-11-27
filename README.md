@@ -54,11 +54,11 @@
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Chandramani2&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandramani2&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api?username=Chandramani2&theme=calm&hide_border=false&include_all_commits=true&count_private=false)<br/>
 -->
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Chandramani2&theme=calm&hide_border=false&include_all_commits=true&count_private=false)<br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=Chandramani2&theme=calm&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandramani2&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
