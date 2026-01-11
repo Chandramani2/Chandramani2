@@ -59,13 +59,14 @@
 
 # 📊 GitHub Stats:
 
-![](https://nirzak-streak-stats.vercel.app/?user=Chandramani2&theme=calm&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandramani2&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=Chandramani2&theme=calm&hide_border=false) <br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandramani2&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
+<!--
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-<!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Chandramani2&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
